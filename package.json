@@ -1,0 +1,10 @@
+{
+  "name": "listening-party",
+  "version": "1.0.0",
+  "description": "Collaborative listening application",
+  "dependencies": {
+    "express": "^4.10.6",
+    "osa": "^2.1.0",
+    "socket.io": "^1.2.1"
+  }
+}
